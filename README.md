@@ -7,3 +7,5 @@ Dit is een file om te oefenen met het importeren van <ins>GitHub</ins> files?
 **Dit doe ik locally om bekend te worden met het systeem.**
 
 Deze tweede aanpassing doe ik na een fout.
+
+Dit is een tweede test voor git push.
